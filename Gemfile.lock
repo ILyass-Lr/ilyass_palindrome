@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ilyass_palindrome (0.1.0)
+    ilyass_palindrome (1.0.0)
 
 GEM
   remote: https://rubygems.org/
