@@ -14,5 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.0]
 - Added a test for whitespaces.
 - This version if mainly for testers and contributors.
-
+## [1.1.1]
+- Now this gem can be used for older version (2.7.*)
 
