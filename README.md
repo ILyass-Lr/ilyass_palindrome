@@ -1,13 +1,13 @@
 # Palindrome detector
 
-`ilyass_palindrome` is a sample Ruby gem created in Learn ENough Ruby to Be Dangerous by Michael Hartl.
+`ilyass_palindrome` is a sample Ruby gem created in Learn Enough Ruby to Be Dangerous by Michael Hartl.
 
 ## Installation
 
 To install `ilyass_palindrome`, add this line to your application's `Gemfile`:
 
 ```bash
-bundle add UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+bundle add ilyass_palindrome
 ```
 
 If bundler is not being used to manage dependencies, install the gem by executing:
