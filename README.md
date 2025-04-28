@@ -27,14 +27,9 @@ gem install ilyass_palindrome
 ```
 ## Usage
 
-First add the module to the `String` and `Integer` classes, e.g:
+First require the module in you ruby app:
 ```ruby
-class String
-  include Palindrome
-end
-class Integer
-  include Palindrome
-end
+require 'ilyass_palindrome'
 ```
 Now you can use the `palindrome?` method directly on string and integer literals, e.g:
 ```ruby
@@ -42,6 +37,8 @@ Now you can use the `palindrome?` method directly on string and integer literals
 => true
 12321.palindrome?
 => true
+"   ".palindrome?
+=> false
 ```
 
 ## Development

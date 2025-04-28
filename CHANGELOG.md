@@ -11,5 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0]
 - `palindrome?` now support both the String and Integer classes.
 - This version is for professional use.
+## [1.1.0]
+- Added a test for whitespaces.
+- This version if mainly for testers and contributors.
 
 
